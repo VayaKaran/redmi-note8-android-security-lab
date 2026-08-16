@@ -1,0 +1,39 @@
+OS/editor files
+
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+Temporary files
+
+*.tmp
+*.temp
+*.log
+
+Python/cache files if future tooling is added
+
+pycache/
+*.pyc
+
+Sensitive/private evidence
+
+evidence/private/
+evidence/raw-private/
+*.pem
+*.key
+*.token
+*.secret
+
+Large binary images/ROM packages
+
+*.iso
+*.zip
+*.img
+*.bin
+
+Local exports
+
+build/
+dist/
