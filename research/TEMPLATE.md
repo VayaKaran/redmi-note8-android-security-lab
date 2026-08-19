@@ -1,42 +1,44 @@
-Research Note — TITLE
+# Research Note — TITLE
 
-Author: Karan Bhaveshbhai Vaya
-Date: 2026-8-16
-Device: Redmi Note 8 (ginkgo)
-OS:
-Purpose:
+**Author:** Karan Bhaveshbhai Vaya  
+**Date:** YYYY-MM-DD  
+**Device:** Redmi Note 8 (`ginkgo`)  
+**OS:**  
+**Purpose:**  
 
-Question
+## Question
 
 What am I trying to understand?
 
-Background
+## Background
 
 What theory/documentation did I read first?
 
-Procedure
+## Procedure
 
 What did I actually do?
 
-Evidence
+## Evidence
 
 Screenshots, logs, commands, outputs, or observations.
 
-Result
+## Result
 
 What happened?
 
-Interpretation
+## Interpretation
 
 What does the result mean?
 
-Limitations
+## Limitations
 
 What was not tested or proven?
 
-Sources
-Source 1
-Source 2
-Next step
+## Sources
 
-What should be investigated next
+- Source 1
+- Source 2
+
+## Next step
+
+What should be investigated next?

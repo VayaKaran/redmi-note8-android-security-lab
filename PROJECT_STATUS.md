@@ -1,25 +1,28 @@
-Project Status
-Current state
+# Project Status
 
-Status: Completed project work; documentation formalization in progress.
+## Current state
 
-Current device: Redmi Note 8 (ginkgo)
+**Status:** Completed project work; documentation formalization in progress.
 
-Current operating system: LineageOS 23.2
+**Current device:** Redmi Note 8 (`ginkgo`)
 
-Android version: Android 16
+**Current operating system:** LineageOS 23.2
 
-Current build: 20260812-NIGHTLY-ginkgo
+**Android version:** Android 16
 
-Security update shown in current screenshots: August 2026
+**Current build:** `20260812-NIGHTLY-ginkgo`
 
-Historical state
-Original OS: MIUI 12.5
-First recovery used: OrangeFox R10.0
-Pixel experiment: Pixel 3.6; exact build not recorded
-Later recovery: OrangeFox R12.0
-Final/current ROM: LineageOS 23.2 / Android 16
-Evidence limitations
+**Security update shown in current screenshots:** August 2026
+
+## Historical state
+
+- Original OS: MIUI 12.5
+- First recovery used: OrangeFox R10.0
+- Pixel experiment: Pixel 3.6; exact build not recorded
+- Later recovery: OrangeFox R12.0
+- Final/current ROM: LineageOS 23.2 / Android 16
+
+## Evidence limitations
 
 No historical screenshots or original personal notes survive from the MIUI, bootloader, OrangeFox R10.0, Pixel 3.6, first bootloop, battery-drain, or recovery-loop stages.
 
@@ -27,6 +30,6 @@ Those stages are therefore explicitly labeled as reconstructed historical accoun
 
 Current-state evidence is available as screenshots supplied during project documentation.
 
-Data-quality rule
+## Data-quality rule
 
-The project does not infer exact ROM builds, firmware versions, causes of failures, or commands when the author does not remember them. Such fields remain Unknown / not recorded.
+The project does not infer exact ROM builds, firmware versions, causes of failures, or commands when the author does not remember them. Such fields remain `Unknown / not recorded`.

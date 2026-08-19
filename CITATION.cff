@@ -3,25 +3,21 @@ title: "Redmi Note 8 Android System Modification & Mobile Security Learning Lab"
 message: "If you use or reference this project, please cite it as documented here."
 type: software
 authors:
-
-family-names: Vaya
-given-names: "Karan Bhaveshbhai"
-affiliation: "Independent student project"
-repository-code: "https://github.com/VayaKaran/redmi-note8-android-security-lab"
-date-released: 2026-09-01
+  - family-names: Vaya
+    given-names: "Karan Bhaveshbhai"
+    affiliation: "Independent student project"
 version: "1.0.0"
 license: "CC-BY-4.0"
-
 keywords:
-Android
-Redmi Note 8
-LineageOS
-Android 16
-OrangeFox
-ADB
-Fastboot
-Termux
-Linux
-mobile security
-custom ROM
-cybersecurity
+  - Android
+  - Redmi Note 8
+  - LineageOS
+  - Android 16
+  - OrangeFox
+  - ADB
+  - Fastboot
+  - Termux
+  - Linux
+  - mobile security
+  - custom ROM
+  - cybersecurity
